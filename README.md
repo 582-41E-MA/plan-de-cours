@@ -26,22 +26,55 @@ EHE1 : Collaborer au sein d'une équipe de production Web (45 heures)
 
 ## Calendrier
 
+### Partie 1 : Planification
+
+Durant la première partie du cours, l'étudiant·e est introduit·e aux
+différentes méthodologies de planification et d'organisation de projets
+Web. Il ou elle apprend à analyser un devis de production, identifier
+les fonctionnalités, créer et utiliser une liste de tâches, définir
+les priorités et les étapes de réalisation, et à faire des choix
+technologiques. L'étudiant·e est aussi initié·e aux outils disponibles
+pour la planification de projet Web.
+
 |     | Contenu                              | Remises        |
 | --: | ------------------------------------ | -------------- |
 |   1 | Introduction                         |                |
 |   2 | Organisation du travail informatique |                |
-|   3 | Méthode de la mêlée                  |                |
+|   3 | Méthode de la mêlée                  | Devoir 1       |
 |   4 | Atelier                              |                |
+
+### Partie 2 : Gestion de versions
+
+La deuxième partie du cours se concentre sur l'utilisation du logiciel
+de gestion de versions Git. L'étudiant·e se familiarise d'abord avec
+le fonctionnement interne de Git, puis il ou elle est introduit à
+l'interface en ligne de commande. L'étudiant·e apprend le fonctionnement
+des branches et des dépôts distants afin de pouvoir travailler en
+équipe. Enfin, il ou elle apprend à travailler dans un environnement
+distribué avec Git en tant que contribueur·rice ou intégrateur·rice.
+
+|     | Contenu                              | Remises        |
+| --: | ------------------------------------ | -------------- |
 |   5 | Git : Fonctionnement interne I       | TP             |
-|   6 | Git : Fonctionnement interne II      | Devoir 1       |
-|   7 | Git intermédiaire                    | Devoir 2       |
-|   8 | Git avancé                           | Devoir 3       |
-|   9 | Développement distribué              | Devoir 4       |
-|  10 | Présentation de l'épreuve finale     | Devoir 5       |
-|  11 | Sprint 1                             |                |
-|  12 | Sprint 2                             |                |
-|  13 | Sprint 2                             |                |
-|  14 | Sprint 3                             |                |
+|   6 | Git : Fonctionnement interne II      | Devoir 2       |
+|   7 | Git intermédiaire                    | Devoir 3       |
+|   8 | Git avancé                           | Devoir 4       |
+|   9 | Développement distribué              | Devoir 5       |
+
+
+### Partie 3 : Projet Web 2
+
+Lors de la dernière partie du cours, l'étudiant·e travaille sur le
+projet Web 2. Des rencontres avec l'enseignant sont plannifiées afin de
+des mises au point.
+
+|     | Contenu                              | Remises        |
+| --: | ------------------------------------ | -------------- |
+|  10 | Présentation de l'épreuve finale     |                |
+|  11 | Itération 1                          |                |
+|  12 | Itération 2                          |                |
+|  13 | Itération 2                          |                |
+|  14 | Itération 3                          |                |
 |  15 | Synthèse                             | Épreuve finale |
 
 ## Évaluations
@@ -56,7 +89,7 @@ réalisé en équipe.
 
 ### Devoirs (20%)
 
-Énoncé : cours 5, 6, 7, 8 \
+Énoncé : cours 2, 5, 6, 7, 8 \
 Remise : cours suivant
 
 Cinq devoirs sur la matière vue en classe. Travaux réalisés seul·e.
